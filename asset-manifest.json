@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Real-IMDB/static/css/main.b872c413.css",
-    "main.js": "/Real-IMDB/static/js/main.4392209c.js",
-    "static/media/homelogo.png": "/Real-IMDB/static/media/homelogo.7fb3ce13848b39b26825.png",
-    "index.html": "/Real-IMDB/index.html"
+    "main.css": "/Real-IMDB1/static/css/main.b872c413.css",
+    "main.js": "/Real-IMDB1/static/js/main.c4cbbe33.js",
+    "static/media/homelogo.png": "/Real-IMDB1/static/media/homelogo.7fb3ce13848b39b26825.png",
+    "index.html": "/Real-IMDB1/index.html"
   },
   "entrypoints": [
     "static/css/main.b872c413.css",
-    "static/js/main.4392209c.js"
+    "static/js/main.c4cbbe33.js"
   ]
 }
